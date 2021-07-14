@@ -1,6 +1,5 @@
 '''
 Prince Ampofo
-Ramon Wrzosek 
 '''
 import os ,time
 add_library('minim')  #library for sounds
